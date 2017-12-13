@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+	font-family: impact;
+	background-image: url("https://specials-images.forbesimg.com/imageserve/689092408/960x0.jpg?fit=scale");
+	background-size: cover;
+}
+
+
+
+img {
+	width: 50px;
+	height: 50px;
+}
+
